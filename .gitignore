@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Build directory
+build/
+
+# CMake cache
+CMakeCache.txt
+
+# CMake files
+CMakeLists.txt
+
+# Mac OS
+.DS_Store
