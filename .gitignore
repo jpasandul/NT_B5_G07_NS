@@ -38,7 +38,9 @@ build/
 CMakeCache.txt
 
 # CMake files
-CMakeLists.txt
 
 # Mac OS
 .DS_Store
+
+# Ignore all files in the build directory
+build/
