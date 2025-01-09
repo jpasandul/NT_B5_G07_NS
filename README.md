@@ -18,7 +18,7 @@ A modular C++ camera system using Raspberry Pi/Webcam for face recognition and a
 ## 📦 Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CameraSystem.git
+git clone https://github.com/jpasandul/NT_B5_G07_NS.git
 
 # Create build directory
 mkdir build && cd build
@@ -57,4 +57,4 @@ CameraSystem/
 MIT License
 
 ## ✨ Contributors
-- Your Name (@yourusername)
+- J Pasandul (jpasandul@gmail.com)
